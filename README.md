@@ -3,7 +3,8 @@
 
 # LIS3MDL
 
-LIS3MDL is an ultra-low-power high-performance three-axis magnetic sensor.The LIS3MDL has user-selectable full scales of ±4/ ±8/ ±12/ ±16 gauss.This Device is available from www.ncd.io 
+LIS3MDL is an ultra-low-power high-performance three-axis magnetic sensor.The LIS3MDL has user-selectable full scales of ±4/ ±8/ ±12/ ±16 gauss.
+This Device is available from www.ncd.io 
 
 [SKU: LIS3MDL_I2CS]
 
